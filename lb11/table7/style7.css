@@ -1,0 +1,19 @@
+body{
+    background: url(images/redline.png);
+} 
+table{
+    width: 30%;
+}
+
+td{
+    background: orange;
+    border: 1px solid #333;
+    padding: 5px;
+    opacity: 0.5; 
+    filter: alpha(Opacity=50);
+}
+
+.trans{
+    opacity: 1;
+    filter: alpha(Opacity=100);
+}

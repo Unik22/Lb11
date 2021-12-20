@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+table{
+   text-align: right;
+   max-width: 250px;
+    border-collapse: collapse;
+    border: 1px double red;
+}
+
+th{
+    background-color: aliceblue;
+    border: 1px solid white;
+}
+
+td{
+    background-color: azure;
+    border: 1px solid white;
+}

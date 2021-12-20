@@ -1,0 +1,21 @@
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 400px;
+    text-align: left;
+}
+
+th, td{
+    border: 1px solid black;
+    width: 5px;
+    text-align: center;
+    ;
+}
+
+.th-1{
+    font-style: italic;
+}
+
+.td-1{
+    display: none;
+}

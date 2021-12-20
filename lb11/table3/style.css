@@ -1,0 +1,17 @@
+th{
+    background-color: blue;
+}
+
+table{
+    border-collapse: collapse;
+    width: 20%;
+}
+
+.tr-2{
+    font-style: italic;
+    background-color: orange;
+}
+
+.tr-1{
+    background-color: yellow;
+}
